@@ -1,0 +1,66 @@
+h1{
+    color:violet;
+}
+body{background-color: lightseagreen;}
+
+
+.container
+{display: flex;}
+
+.gvantsa1
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    margin-left: 10;
+    background-color: rgb(127, 172, 255);
+    padding: 10px;
+    
+}
+.gvantsa2
+    {
+        width: 100px;
+        height: 100px;
+        border-radius: 20%;
+        margin-left: 10;
+        background-color: rgb(255, 153, 127);
+        padding: 10px;
+    }
+.gvantsa3{
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    margin-left: 10;
+    background-color: rgb(221, 255, 127);
+    padding: 10px;
+}
+    .gvantsa4
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    margin-left: 10;
+    background-color: rgb(255, 127, 223);
+    padding: 10px;
+}
+    .gvantsa5
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    margin-left: 10;
+    background-color:cornflowerblue;
+    padding: 10px;
+}
+    .gvantsa6
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 20%;
+    margin-left: 10;
+    background-color:darkviolet;
+    padding: 10px;
+}
+  
+
+
