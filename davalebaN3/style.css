@@ -1,0 +1,88 @@
+h1{
+    color:violet;
+    text-align: center;
+}
+body{background-color: lightseagreen;}
+
+.main{
+    padding: 5px;
+    padding-left: 300;
+    padding-right: 300;
+}
+.img{
+    width: 150px;
+    height: 100px;
+}
+.sms p{
+font: 700;
+font-size: medium;
+font-family: Georgia, 'Times New Roman', Times, serif;
+line-height: 20px;
+color: darkblue;
+font-style: italic;
+padding: 5px;
+}
+.sms2 p{
+    font: 700;
+    font-size:small;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 20px;
+    text-decoration: underline;
+    color: rgb(13, 70, 43);
+    padding: 5px;
+    }
+.sms3 p{
+    font: 700;
+    font-size:larger;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    line-height: 20px;
+    text-decoration:solid;
+    color: rgb(70, 13, 61);
+    padding: 5px;
+    }
+.container
+    {display: flex;
+    justify-content: space-between;
+    padding: 5px;}
+
+.box{
+    width: 50px;
+    height: 50px;
+    border-radius: 15%;
+    border: 5px;   
+}
+.gvantsa1
+{ background-color: rgb(127, 172, 255);
+}
+.gvantsa2
+{    background-color: rgb(255, 153, 127);
+}
+.gvantsa3
+{    background-color: rgb(221, 255, 127);
+}
+.gvantsa4
+{    background-color: rgb(255, 127, 223);  
+}
+.gvantsa5
+{    background-color:cornflowerblue;
+}
+.gvantsa6
+{    background-color:darkviolet;
+}
+.gvantsa7
+{    background-color: rgb(127, 172, 255);
+}
+.gvantsa8
+{background-color: rgb(255, 153, 127);
+}
+.gvantsa9
+{background-color: rgb(221, 255, 127);
+}
+    .gvantsa10
+{background-color: rgb(255, 127, 223);
+}
+    .gvantsa11
+{background-color:cornflowerblue;
+}
+    .gvantsa12
+{background-color:darkviolet;
+}
